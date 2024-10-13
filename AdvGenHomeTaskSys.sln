@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvGenHomeTaskSys", "AdvGenHomeTaskSys\AdvGenHomeTaskSys.csproj", "{0C7D343B-4656-47C8-8C8A-95E7E191DAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C7D343B-4656-47C8-8C8A-95E7E191DAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7D343B-4656-47C8-8C8A-95E7E191DAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7D343B-4656-47C8-8C8A-95E7E191DAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7D343B-4656-47C8-8C8A-95E7E191DAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE9002B-6AE3-4272-8676-0F2C95867B9C}
+	EndGlobalSection
+EndGlobal
